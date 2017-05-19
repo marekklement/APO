@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/apo.dir/change_me.c.o CMakeFiles/apo.dir/font_prop14x16.c.o CMakeFiles/apo.dir/font_rom8x16.c.o CMakeFiles/apo.dir/julia_set.c.o CMakeFiles/apo.dir/mzapo_parlcd.c.o CMakeFiles/apo.dir/mzapo_phys.c.o  -o apo 

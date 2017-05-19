@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="apo"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/marek/Dokumenty/skola/apo/semestralka_1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/marek/Dokumenty/skola/apo/semestralka_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/marek/Dokumenty/skola/apo/semestralka_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/marek/Dokumenty/skola/apo/semestralka_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/marek/Dokumenty/skola/apo/semestralka_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/marek/Dokumenty/skola/apo/semestralka_1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/marek/Dokumenty/skola/apo/semestralka_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/marek/Dokumenty/skola/apo/semestralka_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/marek/Dokumenty/skola/apo/semestralka_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/marek/Dokumenty/skola/apo/semestralka_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/marek/Dokumenty/skola/apo/semestralka_1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/marek/Dokumenty/skola/apo/semestralka_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/marek/Dokumenty/skola/apo/semestralka_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/marek/Dokumenty/skola/apo/semestralka_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/marek/Dokumenty/skola/apo/semestralka_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="apo">
+				<Option output="/home/marek/Dokumenty/skola/apo/semestralka_1/cmake-build-debug/apo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/marek/Dokumenty/skola/apo/semestralka_1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/marek/Dokumenty/skola/apo/semestralka_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 apo"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/marek/Dokumenty/skola/apo/semestralka_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/marek/Dokumenty/skola/apo/semestralka_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/marek/Dokumenty/skola/apo/semestralka_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="apo/fast">
+				<Option output="/home/marek/Dokumenty/skola/apo/semestralka_1/cmake-build-debug/apo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/marek/Dokumenty/skola/apo/semestralka_1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/marek/Dokumenty/skola/apo/semestralka_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 apo/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/marek/Dokumenty/skola/apo/semestralka_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/marek/Dokumenty/skola/apo/semestralka_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/marek/Dokumenty/skola/apo/semestralka_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/marek/Dokumenty/skola/apo/semestralka_1/change_me.c">
+			<Option target="apo"/>
+		</Unit>
+		<Unit filename="/home/marek/Dokumenty/skola/apo/semestralka_1/font_prop14x16.c">
+			<Option target="apo"/>
+		</Unit>
+		<Unit filename="/home/marek/Dokumenty/skola/apo/semestralka_1/font_rom8x16.c">
+			<Option target="apo"/>
+		</Unit>
+		<Unit filename="/home/marek/Dokumenty/skola/apo/semestralka_1/font_types.h">
+			<Option target="apo"/>
+		</Unit>
+		<Unit filename="/home/marek/Dokumenty/skola/apo/semestralka_1/julia_set.c">
+			<Option target="apo"/>
+		</Unit>
+		<Unit filename="/home/marek/Dokumenty/skola/apo/semestralka_1/julia_set.h">
+			<Option target="apo"/>
+		</Unit>
+		<Unit filename="/home/marek/Dokumenty/skola/apo/semestralka_1/mzapo_parlcd.c">
+			<Option target="apo"/>
+		</Unit>
+		<Unit filename="/home/marek/Dokumenty/skola/apo/semestralka_1/mzapo_parlcd.h">
+			<Option target="apo"/>
+		</Unit>
+		<Unit filename="/home/marek/Dokumenty/skola/apo/semestralka_1/mzapo_phys.c">
+			<Option target="apo"/>
+		</Unit>
+		<Unit filename="/home/marek/Dokumenty/skola/apo/semestralka_1/mzapo_phys.h">
+			<Option target="apo"/>
+		</Unit>
+		<Unit filename="/home/marek/Dokumenty/skola/apo/semestralka_1/mzapo_regs.h">
+			<Option target="apo"/>
+		</Unit>
+		<Unit filename="/home/marek/Dokumenty/skola/apo/semestralka_1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
